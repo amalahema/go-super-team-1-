@@ -8,7 +8,7 @@ Amala Hema Francis, Jamie Charlemagne , Edward Kiosa
 
 # go-super-team-1-
 ## Project Name : Workout & Nutrtion Dashboard
-<<<<<<< HEAD
+
 
 ## Table of contents
 - Overview
